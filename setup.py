@@ -11,12 +11,12 @@ setup(
         'seaborn>=0.12.2',
         'scipy>=1.10.0'
     ],
-    author="Minal Madankar Devikar",  # Your name or the author's name
-    author_email="meenal.madankar@gmail.com",  # Author's email address
+    author="Pankaj Devikar",  # Your name or the author's name
+    author_email="pankaj.devikar@gmail.com",  # Author's email address
     description="Analysis of tutor effectiveness based on student engagement, outcomes, and feedback.",  # Short description of your project
     long_description=open('README.md').read(),  # If you have a README file for detailed project description
     long_description_content_type='text/markdown',  # Format of the long description
-    url="https://github.com/yourusername/tutor-effectiveness-analysis",  # URL to the project (e.g., GitHub repository)
+    url="https://github.com/PankajDevikar/tutor-effectiveness-analysis",  # URL to the project (e.g., GitHub repository)
     classifiers=[  # Classifiers help people find your package by categorizing it
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
