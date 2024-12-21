@@ -79,5 +79,5 @@ The dataset includes 1000 records of student-tutor sessions, capturing various a
 - Compare engagement, outcome, and feedback scores across different tutors.
 - Visualize how tutor effectiveness impacts student success.
 
-**Developed by:** Minal Madankar Devikar
+**Developed by:** Pankaj Devikar
 """)
